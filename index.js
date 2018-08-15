@@ -22,7 +22,7 @@ function logWhisper(string) {
 
 logWhisper('HELLO')
 
-var lowercase = 'hello'
+var lowercase 
 
 
 function sayHiToGrandma(string) {

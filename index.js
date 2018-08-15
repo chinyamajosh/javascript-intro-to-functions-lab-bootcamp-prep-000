@@ -22,12 +22,14 @@ function logWhisper(string) {
 
 logWhisper('HELLO')
 
-var lowercase = "hello"
-var uppercase = "HELLO"
+var lowercase = 'hello'
+
 
 function sayHiToGrandma(string) {
   return string. toLowerCase()
-  if(string ===)
+  if(string === lowercase){
+    console.log()
+  }
   
  
 }

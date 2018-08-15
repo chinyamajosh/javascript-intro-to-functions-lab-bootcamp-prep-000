@@ -22,18 +22,7 @@ function logWhisper(string) {
 
 logWhisper('HELLO')
 
-var lowercase 
 
-
-function sayHiToGrandma(string) {
-  return string. toLowerCase()
-  
-  if(string === 'lowercase'){
-    console.log("I can't hear you!")
-  
-  }
-}
-sayHiToGrandma('hello')
 
 
 

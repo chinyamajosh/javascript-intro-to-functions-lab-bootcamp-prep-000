@@ -27,15 +27,15 @@ var lowercase = 'hello'
 
 function sayHiToGrandma(string) {
   return string. toLowerCase()
+  
   if(string === lowercase){
     console.log("I can't hear you!")
-  } else{
-    console.log("try again bud")
-  }
   
+  }
 }
-
 sayHiToGrandma('hello')
+
+
 
 
 
